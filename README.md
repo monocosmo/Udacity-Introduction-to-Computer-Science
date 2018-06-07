@@ -1,3 +1,5 @@
-# Udacity-Introduction-to-Computer-Science
+# Udacity: Introduction to Computer Science
+### Language: Python 2.0
 
-These are the notes of the Introduction to Computer Science course from Udacity. The laguage used is Python.
+* Notes, practice and assignments
+* Introduction to Computer Science from Udacity
